@@ -2,5 +2,5 @@ numpy
 pandas
 scipy
 matplotlib
-fix_yahoo_finance
+yfinance
 pandas_datareader
