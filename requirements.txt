@@ -1,0 +1,6 @@
+numpy
+pandas
+scipy
+matplotlib
+fix_yahoo_finance
+pandas_datareader
