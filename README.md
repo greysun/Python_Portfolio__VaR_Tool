@@ -21,7 +21,7 @@ This wxPython Notebook-app / widget allows one to retrieve stock / index data th
  - stock return correlation heatmap
  <br>
  
-In addition, the data retrieved from Yahoo Finance can be exported in CSV-format through the checkbox on the MainFrame.
+In addition, the data can be exported in CSV-format through the checkbox on the MainFrame.
 
 #### Screenshot MainFrame
 ![alt text](https://github.com/Weesper1985/Python_Portfolio__VaR_Tool/blob/master/Main3.png)
