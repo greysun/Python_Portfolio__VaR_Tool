@@ -34,7 +34,6 @@ Please note - this app requires the following packages / modules in order to fun
 - [Pandas](https://pandas.pydata.org/)
 - [WxLibPubSub](https://wiki.wxpython.org/WxLibPubSub)
 - [Numpy and Scipy](https://docs.scipy.org/doc/)
-- [yfinance](https://pypi.org/project/yfinance/)
 
 #### Screenshot Value-at-Risk data
 ![alt text](https://github.com/Weesper1985/Python_Portfolio__VaR_Tool/blob/master/Tab22.png)
